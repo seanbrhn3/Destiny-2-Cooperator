@@ -5,6 +5,8 @@ I'll be using a quad copter design
 
 ![image](assets/DSTL513_Destiny_Ghost_Vinyl_01.png)
 
+See the draw.io file for architecture design
+
 Components:
 * Camera
     * computer vision
